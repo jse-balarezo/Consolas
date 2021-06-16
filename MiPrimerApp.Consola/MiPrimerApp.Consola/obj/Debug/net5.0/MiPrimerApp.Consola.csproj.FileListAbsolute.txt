@@ -1,0 +1,16 @@
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\bin\Debug\net5.0\MiPrimerApp.Consola.exe
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\bin\Debug\net5.0\MiPrimerApp.Consola.deps.json
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\bin\Debug\net5.0\MiPrimerApp.Consola.runtimeconfig.json
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\bin\Debug\net5.0\MiPrimerApp.Consola.runtimeconfig.dev.json
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\bin\Debug\net5.0\MiPrimerApp.Consola.dll
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\bin\Debug\net5.0\ref\MiPrimerApp.Consola.dll
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\bin\Debug\net5.0\MiPrimerApp.Consola.pdb
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\MiPrimerApp.Consola.csproj.AssemblyReference.cache
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\MiPrimerApp.Consola.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\MiPrimerApp.Consola.AssemblyInfoInputs.cache
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\MiPrimerApp.Consola.AssemblyInfo.cs
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\MiPrimerApp.Consola.csproj.CoreCompileInputs.cache
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\MiPrimerApp.Consola.dll
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\ref\MiPrimerApp.Consola.dll
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\MiPrimerApp.Consola.pdb
+E:\Yavirac\Tercer Semestre\Programación Visual\Proyectos\MiPrimerApp.Consola\MiPrimerApp.Consola\obj\Debug\net5.0\MiPrimerApp.Consola.genruntimeconfig.cache
